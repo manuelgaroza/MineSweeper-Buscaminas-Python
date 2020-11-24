@@ -102,7 +102,7 @@ def pres():
 
 def menu():
   print()
-  opcion=input("8/2/4/6  -m-  b/v  ")
+  opcion=input("8/2/4/6  -m-  p/o  ")
   return opcion
   
 columnas=int(input("Numero de columnas: "))
